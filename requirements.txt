@@ -1,0 +1,10 @@
+boto3  
+google-cloud-storage  
+azure-storage-blob  
+paramiko  
+requests  
+psutil  
+pyyaml  
+schedule  
+logging  
+pathlib
